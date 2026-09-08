@@ -1,1 +1,1 @@
-Machine learning project that predicts corporate clients at high risk of default using Python, Logistic Regression, and Random Forest.
+The machine learning project is for predicting corporate clients who are at high risk of defaulting. I cleaned and analysed the client data, engineered relevant features, and trained Logistic Regression and Random Forest models. I then compared their performance using classification metrics and feature importance. The goal was to help the business identify high-risk clients early and take preventative action to reduce financial losses."
